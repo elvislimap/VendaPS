@@ -3,3 +3,9 @@
 ################################################################################
 
 /src/VendaPS.Domain/obj
+/.vs/VendaPS/v15
+/src/VendaPS.Domain/bin/Debug/netcoreapp2.2
+/src/VandaPS.Infra.Data/bin/Debug/netcoreapp2.2
+/src/VandaPS.Infra.Data/obj
+/tests/VendaPS.Domain.Tests/bin/Debug/netcoreapp2.2
+/tests/VendaPS.Domain.Tests/obj
