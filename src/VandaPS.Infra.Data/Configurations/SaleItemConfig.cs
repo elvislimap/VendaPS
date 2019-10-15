@@ -14,7 +14,7 @@ namespace VandaPS.Infra.Data.Configurations
             builder.Property(s => s.ProductId).HasColumnType("int");
 
             builder.HasOne(s => s.Sale).WithMany(s => s.SaleItems);
-            builder.HasOne(s => s.Product).WithMany(s => s.SaleItems);
+            builder.HasOne(s => s.Product).WithMany(p => p.SaleItems);
         }
     }
 }

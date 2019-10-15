@@ -9,3 +9,14 @@
 /src/VandaPS.Infra.Data/obj
 /tests/VendaPS.Domain.Tests/bin/Debug/netcoreapp2.2
 /tests/VendaPS.Domain.Tests/obj
+/src/VendaPS.Service.Api/bin/Debug/netcoreapp2.2
+/src/VendaPS.Service.Api/obj
+/.vs/VendaPS/DesignTimeBuild
+/src/VandaPS.Infra.Data/bin/Release/netcoreapp2.2
+/src/VendaPS.Domain/bin/Release/netcoreapp2.2
+/src/VendaPS.Service.Api/bin/Release/netcoreapp2.2
+/.vs/config
+/src/VendaPS.Application/bin/Debug/netcoreapp2.2
+/src/VendaPS.Application/obj
+/src/VendaPS.Infra.CrossCutting.Ioc/bin/Debug/netcoreapp2.2
+/src/VendaPS.Infra.CrossCutting.Ioc/obj
