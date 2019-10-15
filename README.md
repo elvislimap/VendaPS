@@ -1,7 +1,7 @@
 # VendaPS
 
-Projeto de treinamento na Ponto.Sys utilizando os seguintes recursos tecnológicos:
-----------------------------------------------------------------------------------
+Projeto treinamento Ponto.Sys utilizando as seguintes tecnologias:
+------------------------------------------------------------------
 
 - Web Api Rest
 - Dot Net Core 2.2
